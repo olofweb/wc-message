@@ -1,0 +1,22 @@
+{
+  "name": "wc-message",
+  "version": "1.0.0",
+  "description": "Web component - Affiche un message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olofweb/wc-message.git"
+  },
+  "author": "Olofweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olofweb/wc-message/issues"
+  },
+  "homepage": "https://github.com/olofweb/wc-message#readme",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.6"
+  }
+}
